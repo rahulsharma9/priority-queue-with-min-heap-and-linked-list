@@ -1,4 +1,3 @@
-# Priority-Queue-With-Min-Heap-And-Linked-List
 
 This program implements Priority Queue using Minimum Heap and Linked List (ascending order). 
 In the implemented Priority Queue, the smallest element has the highest priority. Therefore, the delete method removes the smallest element in the min heap or linked list.
